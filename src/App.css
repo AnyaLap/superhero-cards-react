@@ -1,0 +1,9 @@
+.cards-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.cards-header{
+  color: white;
+  text-align: center;
+}
